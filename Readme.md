@@ -30,7 +30,7 @@ Some good resources for submitting and giving a talk are:
 * [7 best practices for giving a congerence talk](https://opensource.com/article/17/9/7-best-practices-giving-conference-talk)
 *[Speak your science: How to give a better conference talk](http://www.planetary.org/blogs/emily-lakdawalla/2018/0206-speak-your-science.html)
 * [Experiences of a first time conference speaker](https://proandroiddev.com/experiences-of-a-first-time-conference-speaker-80810eb3e2ca)
-* [I set a goal to speak at 1 conference by end of 2017. Here’s how I overachieved it by 4X)(https://medium.com/women-talk-design/i-set-a-goal-to-speak-at-1-conference-by-end-of-2017-heres-how-i-overachieved-it-by-4x-4ca4e77935e7)
+* [I set a goal to speak at 1 conference by end of 2017. Here’s how I overachieved it by 4X](https://medium.com/women-talk-design/i-set-a-goal-to-speak-at-1-conference-by-end-of-2017-heres-how-i-overachieved-it-by-4x-4ca4e77935e7)
 
 ### Get in touch
 
